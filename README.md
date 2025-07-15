@@ -12,7 +12,7 @@ This project generates a user persona from a Reddit user's public comments and p
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/reddit-persona-generator.git
+   git clone https://github.com/nihalsathawane2003/reddit-persona-generator.git
    cd reddit-persona-generator
 2. Install the required libraries:
 
